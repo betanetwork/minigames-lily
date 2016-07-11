@@ -1,0 +1,12 @@
+messages:
+  adminonly: '&3Permissions> &7This requires the &c[ADMIN] &7rank.'
+  modonly: '&3Permissions> &7This requires the &6[MOD] &7rank.'
+  helperonly: '&3Permissions> &7This requires the &a[HELPER] &7rank.'
+  noargs-dispatch: '&3Dispatch> &7/dispatch <command>'
+  noargs-alert: '&3Alert> &7/alert <message>'
+  noargs-adminchat: '&3Admin Chat> &7/a <message>'
+  noargs-server: '&3Server> &7You are currently connected to &3{server}&7.'
+  server-offline: '&3Server> &7That server does not exist!'
+  glist-message: '&3Population> &7There are &3{count} &7players currently playing on the network!'
+formats:
+  staff-chat-format: '&3Admin Chat> &7{server} &8> &3{player} &8> &3{message}'

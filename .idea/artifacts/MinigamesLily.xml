@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MinigamesLily">
+    <output-path>$PROJECT_DIR$/out/artifacts/MinigamesLily</output-path>
+    <root id="archive" name="MinigamesLily.jar">
+      <element id="module-output" name="MinigamesLily" />
+    </root>
+  </artifact>
+</component>

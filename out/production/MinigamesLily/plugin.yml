@@ -1,0 +1,13 @@
+name: MinigamesLily
+main: com.unbinding.minigameslily.Main
+version: 1.0
+softdepend: [LilyPad-Connect]
+commands:
+  a:
+    description: Talk in the admin chat.
+  dispatch:
+    description:  Send a command to all servers.
+  server:
+    description: Switch servers with this command.
+  glist:
+    description: Show the total count of all players on the network.
